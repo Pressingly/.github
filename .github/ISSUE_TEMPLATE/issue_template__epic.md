@@ -1,8 +1,8 @@
 ---
 name: 🚀 Epic
 about: Describe an epic
-title: ''
-labels: 'type:epic'
+title: '🚀 '
+labels: 'epic'
 assignees: ''
 
 ---
